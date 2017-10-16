@@ -1,0 +1,116 @@
+
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+#banner {
+  background-image: url("https://img00.deviantart.net/82db/i/2010/319/9/9/nuclear_reaction_by_ultrareality-d32yf6j.png");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+
+#banner .content h1 {
+  border: 3px solid white;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#main {
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 50%;
+}
+
+h1 {
+  color: white;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+}
+
+h2 {
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  padding: 20px 30px;
+  margin: 30px 20px;
+  text-align: center;
+}
+
+h3 {
+  color: red;
+  font-size: 26px;
+  font-weight: 700;
+  padding: 20px 10px;
+}
+
+p {
+  color: grey;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 45px;
+  padding: 10px 20px;
+}
+
+.pull-quote p{
+  border: 1px dotted red;
+  color: red;
+  margin: 0 auto;
+  width: 400px;
+  font-size: 20px;
+}
+
+.byline {
+  border-bottom: 1px solid LightGrey;
+  border-top: 1px solid LightGrey;
+  color: DarkGrey;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.share {
+  border: 2px solid red;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  border-radius: 3px;
+}
+
+.share p {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.share p:hover {
+  background: white;
+  border: 1px solid red;
+  color: red;
+}
+
+.important{
+font-weight: bold;
+text-decoration: underline;
+}
+
+.h1 {
+  color: red;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 auto;
+}
+
